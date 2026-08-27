@@ -3,25 +3,29 @@
 
 ## 😎 Who Am I?
 
-Seasoned Senior Software Engineer with rich experience, specializing in AI and Full-stack development. Expert in delivering innovative solutions and integrating advanced AI technologies to enhance application functionality and user experience. Proven track record in managing hybrid and remote work environments.
+Senior AI Engineer and Full-Stack Developer specializing in building end-to-end AI-powered web applications, intelligent automation systems, and scalable software products.
 
-## 🚀 About Me
+I focus on combining modern full-stack development with AI integration to design and deliver production-ready applications from concept to deployment. My experience covers frontend and backend development, cloud infrastructure, LLM integration, RAG systems, AI agents, computer vision, NLP, and generative AI.
 
-- 🏆 **Generative AI:** LLMs, Image / Video Generation, Image / Video Editing, Voice Generation
-- 🏆 **LLMs:** Llama, GPT, Gemini, Mistral, BERT, Claude
-- 🏆 **LLM Tools:** LangChain, LlamaIndex, LangWatch, LangGraph, LangSmith, LangFlow
-- 🏆 **Front-end Development:** Next.js, React.js ,React Native, Flutter, FlutterFlow, Angular.js, Vue.js, Javascript(ES+6), TypeScript, HTML5, CSS3, JQuery.
-- 🏆 **CSS Framework**: ShadCN, TailwindCSS, MaterialUI, ChakraUI, SCSS, AntDesign, Bootstrap
-- 🏆 **Back-end Development**: Node.js, Express.js, PHP, Laravel, Python, FastAPI, Django, Flask
-- 🏆 **API Technology**: Restful API, Socket API, GraphQL
-- 🏆 **AI Integration**: AI Chatbot, GPT, Generative AI Art, DALL-E, RAG System.
-- 🏆 **Database Management**: MySQL, MongoDB, PostgreSQL, OracleDB
-- 🏆 **Version Control**: Git, GitHub, GitLab, SVN
-- 🏆 **Deployment and Cloud Technologies**: AWS, GCP, Azure, Heroku
-- 🏆 **Testing and Debugging**: Jest, Mocha, Chai, Postman
-- 🏆 **UI/UX Design Principles**
+I design and develop complete AI-powered products, including:
 
-💬 **Ask me about:** Web, AI, ML, Computer Vision, NLP, DevOps, MLOps, and so on.
+## What I Build
+
+- **AI SaaS Platforms** — End-to-end AI-powered SaaS products and scalable web applications
+- **AI Chatbots & Assistants** — Intelligent conversational systems powered by modern LLMs
+- **RAG Knowledge Systems** — Retrieval-Augmented Generation solutions for private and enterprise data
+- **AI Agents & Workflow Automation** — Autonomous agents and intelligent business process automation
+- **Full-Stack Web Applications** — Production-ready applications from frontend to backend
+- **Real-Time Applications** — WebSocket-based systems, live dashboards, notifications, and collaboration tools
+- **API-Driven Platforms** — REST, GraphQL, WebSocket, and third-party API integrations
+- **AI-Powered Dashboards** — Analytics, monitoring, and intelligent data visualization platforms
+- **Computer Vision Applications** — Image analysis, recognition, detection, and AI vision solutions
+- **NLP Solutions** — Text analysis, classification, extraction, summarization, and language processing
+- **Cloud-Scale Systems** — Scalable and reliable applications deployed on AWS, Azure, and GCP
+
+My primary focus is delivering reliable, scalable, and maintainable applications where AI is integrated as a core product capability rather than an isolated feature.
+
+Areas of interest: AI Engineering, Full-Stack Development, Generative AI, LLMs, AI Agents, RAG, Computer Vision, NLP, DevOps, and MLOps.
 
 ## 🛠️ Skills
 <p align="center">
